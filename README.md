@@ -1,5 +1,5 @@
 Hi, I am Devaansh. You can also call me dArc!
-I'm a Engineering student who is trying to learn some programming in my free time.
+I'm an Engineering student who is trying to learn some programming in my free time.
 I am interested in AI/ML field.
 That's all i guess :)
 
