@@ -1,7 +1,7 @@
 Full Stack Web Developer | AI/ML and Cloud Computing enthusiast 
 
 
-https://www.linkedin.com/in/devkakeri06/
+[Linkedin](https://www.linkedin.com/in/devkakeri06/)
 
 
 
