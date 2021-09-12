@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Front-end web development.**
 
-- 👨‍💻 My personal website [https://darccc.github.io/CV2/](https://darccc.github.io/CV2/)
+- 👨‍💻 My personal website [ https://devkakeri06.github.io/CV2/]( https://devkakeri06.github.io/CV2/)
 
 - 💬 Ask me about **HTML, CSS, C, C++, Python.**
 
