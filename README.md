@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **Front-end web development.**
 
-- 👨‍💻 My personal website [ https://devkakeri06.github.io/CV2/]( https://devkakeri06.github.io/CV2/)
+- 👨‍💻 My personal website:- [ https://devkakeri06.github.io/CV2/]( https://devkakeri06.github.io/CV2/)
 
 - 💬 Ask me about **HTML, CSS, C, C++, Python.**
 
 - 📫 How to reach me **devaansh6303@gmail.com**
 
-- 🎧Hobbies **Anime and Heavy Metal**
+- 🎧My Hobbies:- **Anime and Heavy Metal**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
