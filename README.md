@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devkakeri06" alt="devkakeri06" /></a> </p>
 
-<p><image align="right" src="https://github.com/devkakeri06/devkakeri06/blob/chika-chika-dance.gif" width="320" height="320" /></p>
+<p><image align="right" src="https://github.com/devkakeri06/devkakeri06/chika-chika-dance.gif" width="320" height="320" /></p>
 
 - 🔭 I’m currently working on **Front-End Web Developmenent**
 
