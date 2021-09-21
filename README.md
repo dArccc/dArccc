@@ -13,7 +13,7 @@
 
 - 👨‍💻 My Personal Website:- [https://devkakeri06.github.io/CV4/](https://devkakeri06.github.io/CV4/)
 
-- 💬 Ask me about **HTML, CSS, C, C++, Python.**
+- 💬 Ask me about **HTML, CSS, JS, Bootstrap, C, C++, Python.**
 
 - 📫 How to reach me **devaansh6303@gmail.com**
 
