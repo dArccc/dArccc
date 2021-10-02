@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devkakeri06" alt="devkakeri06" /></a> </p>
 
-<p><image align="right" src="https://github.com/devkakeri06/devkakeri06/blob/main/tumblr_2e62f9ec572f257ff2464056b2313b19_b78a741c_400.gif" width="260" height="320" /></p>
+<p><image align="right" src="https://github.com/devkakeri06/devkakeri06/blob/main/tumblr_2e62f9ec572f257ff2464056b2313b19_b78a741c_400.gif" width="600" height="400" /></p>
 
 - 🔭 I’m currently working on **Front-End Web Developmenent**
 
