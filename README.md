@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **devaansh6303@gmail.com**
 
-- 🎧Hobbies:- **Anime, Coding, Fitness and Music**
+- 🎧Hobbies:- **Anime, Coding, Fitness and Music.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
