@@ -7,9 +7,9 @@
 
 <p><image align="right" src="https://github.com/devkakeri06/devkakeri06/blob/main/tumblr_01bab0dfed08e00bd0eac46b5ca434ff_17239b48_400.gif" width="400" height="250" /></p>
 
-- 🔭 I’m currently working on **Javascript and Data Structures in C**
+- 🔭 I’m currently working on **Javascript and Data Structures in C.**
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **Web Development.**
 
 - 👨‍💻 My Personal Website:- [https://devkakeri06.github.io/CV4/](https://devkakeri06.github.io/CV4/)
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **devaansh6303@gmail.com**
 
-- 🎧Hobbies:- **Anime, Coding, Fitness an Music**
+- 🎧Hobbies:- **Anime, Coding, Fitness and Music**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
