@@ -7,7 +7,7 @@
 
 <p><image align="right" src="https://github.com/devkakeri06/devkakeri06/blob/main/tumblr_01bab0dfed08e00bd0eac46b5ca434ff_17239b48_400.gif" width="400" height="250" /></p>
 
-- 🔭 I’m currently working on **Javascript and Data Structures in C.**
+- 🔭 I’m currently working on **Backend and DSA**
 
 - 🌱 I’m currently learning **Web Development.**
 
