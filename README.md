@@ -9,13 +9,13 @@
 
 - 🔭 I’m currently working on **developing new skills.**
 
-- 🌱 I’m currently learning **Competitive Coding and ReactJS.**
+- 🌱 I’m currently learning **Competitive Coding and Machine Learning**
 
 - 👯 I’m looking to collaborate on **projects.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/devkakeri06](https://github.com/devkakeri06)
 
-- 💬 Ask me about **C/C++, DSA, Full-Stack Development.**
+- 💬 Ask me about **C/C++, DSA, React, Backend.**
 
 - 📫 How to reach me **kakeri43@gmail.com**
 
