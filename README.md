@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **kakeri43@gmail.com**
 
-- ⚡ Fun fact ***insert fun fact here***
+- ⚡ Fun fact **I bully computers.**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
