@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **developing new skills.**
 
-- 🌱 I’m currently learning **Competitive Coding and Machine Learning**
+- 🌱 I’m currently learning **Competitive Programming and Machine Learning**
 
 - 👯 I’m looking to collaborate on **projects.**
 
