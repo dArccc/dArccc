@@ -1,11 +1,17 @@
 <h1 align="center">Hi 👋, I'm Devaansh!</h1>
-<h3 align="center">A passionate Developer from Mumbai, India.</h3>
+<h2 align="center">A passionate Developer from Mumbai, India.</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devkakeri06&label=Profile%20views&color=0e75b6&style=flat" alt="devkakeri06" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devkakeri06" alt="devkakeri06" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/devkakeri06" target="blank"><img src="https://img.shields.io/twitter/follow/devkakeri06?logo=twitter&style=for-the-badge" alt="devkakeri06" /></a> </p>
+# About Me
+
+Hi folks :wave:
+
+I'm Devaansh, a Web Developer in MERN (MongoDB-Express.js-React-Node.js) Stack, and a Machine Learning enthusiast. I like to solve problems on Leetcode, CodeChef and Hackerrank. I also want to explore the DevOps domain in the future.
+
+I'm a Electronics and Communication Engineering student from Pune University. I like to learn about how things work and try out new tools and technologies. I love to share time with developer communities and events.
 
 - 🔭 I’m currently working on **developing new skills.**
 
@@ -19,25 +25,77 @@
 
 - 📫 Contact me at:- **kakeri43@gmail.com**
 
+# Skills
 
+## Programming Languages:
 
+<img src="https://img.shields.io/badge/C-lightgrey" alt="C" /> <img src="https://img.shields.io/badge/C++-ff69b4" alt="C++" /> <img src="https://img.shields.io/badge/Java-important" alt="Java" /> <img src="https://img.shields.io/badge/Python 3-informational" alt="Python 3" /> <img src="https://img.shields.io/badge/JavaScript (ES6)-brightgreen" alt="JavaScript (ES6)" />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/devkakeri06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="devkakeri06" height="30" width="40" /></a>
-<a href="https://twitter.com/devkakeri06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devkakeri06" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/devkakeri06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devkakeri06" height="30" width="40" /></a>
-<a href="https://instagram.com/devkakeri06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="devkakeri06" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/devv_06" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="devkakeri06" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/devaansh6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="devaansh6" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/devkakeri06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="devkakeri06" height="30" width="40" /></a>
-</p>
+## Tools and Technologies:
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<img src="https://img.shields.io/badge/MongoDB Atlas-lightgrey" alt="C" /> <img src="https://img.shields.io/badge/ReactJS-ff69b4" alt="C++" /> <img src="https://img.shields.io/badge/Express-important" alt="Java" /> <img src="https://img.shields.io/badge/NodeJS-informational" alt="Python 3" /> <img src="https://img.shields.io/badge/Tailwind-brightgreen" alt="JavaScript (ES6)" />
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devkakeri06&show_icons=true&locale=en&layout=compact" alt="devkakeri06" /></p>
-<br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=devkakeri06&show_icons=true&locale=en" alt="devkakeri06" /></p>
-<br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devkakeri06&" alt="devkakeri06" /></p>
+# Want to know more?
+
+[<img alt="portfolio link" src="https://img.shields.io/badge/My%20Portfolio-devkakeri06-brightgreen" />](https://devkakeri06.netlify.app/)
+
+[<img alt="portfolio link" src="https://img.shields.io/badge/LeetCode-devkakeri06-red" />](https://leetcode.com/devkakeri06/)
+
+[<img alt="resume link" src="https://img.shields.io/badge/CodeChef-devv_06-blue" />](https://leetcode.com/devkakeri06/f.com/users/devv_06)
+
+[<img alt="email" src="https://img.shields.io/badge/CodeForces-devkakeri06.com-orange" />](https://codeforces.com/profile/devkakeri06)
+
+[<img alt="email" src="https://img.shields.io/badge/HackerRank-devaansh6.com-blueviolet" />](https://www.hackerrank.com/devaansh6)
+
+# Socials:-
+
+[<img alt="email" src="https://img.shields.io/badge/Instagram-i dont post lol-ff69b4" />](https://www.instagram.com/devkakeri06/)
+
+[<img alt="email" src="https://img.shields.io/badge/Linkedin-Connect with me!-informational" />](https://www.linkedin.com/in/devkakeri06/)
+
+[<img alt="email" src="https://img.shields.io/badge/Twitter-deader than my dreams-9cf" />](https://twitter.com/devkakeri06)
+
+[<img alt="email" src="https://img.shields.io/badge/Dev.to-devkakeri06-yellow" />](https://dev.to/devkakeri06)
+
+[<img alt="email" src="https://img.shields.io/badge/Discord-dxvv.exe%230740-blueviolet" />]()
+
+[<img alt="email" src="https://img.shields.io/badge/Email%20me-kakeri43@gmail.com-red" />](mailto:kakeri43@gmail.me)
+
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/devkakeri06?label=Follow%20Me&style=social" />
+
+## Here are some [🦜 parrots](https://cultofthepartyparrot.com):
+
+<div>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/exceptionallyfastparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/databaseparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/fixparrot.gif" width="36" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/levitationparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/slomoparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
+</div>
+
+# Github Stats:-
+
+![Devaansh's github stats](https://github-readme-stats.vercel.app/api?username=devkakeri06&show_icons=true&theme=tokyonight)
+
+![Devaansh's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=devkakeri06&theme=tokyonight) |
+
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devkakeri06&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=devkakeri06&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
