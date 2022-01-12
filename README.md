@@ -20,11 +20,11 @@ I'm a Electronics and Communication Engineering student from Pune University. I 
 
 - 👯 I’m looking to collaborate on **projects.**
 
-- 👨‍💻 Follow my work on [https://github.com/devkakeri06](https://github.com/devkakeri06)
+- 👨‍💻 Follow my work on [https://github.com/devkakeri06](https://github.com/devkakeri06)      
 
 - 💬 Ask me about **C/C++, DSA, React, Backend.**
 
-- 📫 Contact me at:- **kakeri43@gmail.com**
+- 📫 Contact me at:- **kakeri43@gmail.com**       <img src="https://github.com/devkakeri06/devkakeri06/blob/main/24dbd0bc48de0490557024cf7f92a736.gif" width="40" height="40" />
 
 # Skills
 
