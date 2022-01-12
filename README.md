@@ -9,25 +9,28 @@
 
 Hi folks :wave:
 
-I'm Devaansh, a Web Developer in MERN (MongoDB-Express.js-React-Node.js) Stack, and a Machine Learning enthusiast. I like to solve problems on Leetcode, CodeChef and Hackerrank. I also want to explore the DevOps domain in the future.
+I'm Devaansh, a Web Developer in MERN Stack, and a Machine Learning enthusiast. I like to solve problems on Leetcode, CodeChef and Hackerrank. I also want to try out my hands on Open Source in near future.
 
-I'm a Electronics and Communication Engineering student from Pune University. I like to learn about how things work and try out new tools and technologies. I love to share time with developer communities and events.
+I'm pursuing my graduation in engineering focused on Electronics and Telecommunication from Pune University. I like to learn about how things work and try out new tools and technologies. I love to participate in events and interact with people in developer communities on reddit, discord and dev.to.
 
 
 
 <img align="right" src="https://github.com/devkakeri06/devkakeri06/blob/main/24dbd0bc48de0490557024cf7f92a736.gif" width="300" height="250" />
 <p align="left">
+   
    - 🔭 I’m currently working on **developing new skills.**
 
-   - 🌱 I’m currently learning **Competitive Programming and Machine Learning**
+   - 🌱 I’m currently learning **Competitive Programming and Machine Learning.**
 
    - 👯 I’m looking to collaborate on **projects.**
 
-   - 👨‍💻 Follow my work on [https://github.com/devkakeri06](https://github.com/devkakeri06)      
+   - 👨‍💻 Follow my work on [https://github.com/devkakeri06](https://github.com/devkakeri06).     
 
    - 💬 Ask me about **C/C++, DSA, React, Backend.**
 
    - 📫 Contact me at:- **kakeri43@gmail.com**
+   
+   - ⚽ Hobbies:- Anime, Metal Music, Fitness, Sketching, Black Coffee <3.
 
 </p>
      
