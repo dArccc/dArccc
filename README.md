@@ -13,7 +13,7 @@ I'm Devaansh, a Web Developer in MERN (MongoDB-Express.js-React-Node.js) Stack, 
 
 I'm a Electronics and Communication Engineering student from Pune University. I like to learn about how things work and try out new tools and technologies. I love to share time with developer communities and events.
 
-
+<div>
 - 🔭 I’m currently working on **developing new skills.**
 
 - 🌱 I’m currently learning **Competitive Programming and Machine Learning**
@@ -24,7 +24,9 @@ I'm a Electronics and Communication Engineering student from Pune University. I 
 
 - 💬 Ask me about **C/C++, DSA, React, Backend.**
 
-- 📫 Contact me at:- **kakeri43@gmail.com**       <img src="https://github.com/devkakeri06/devkakeri06/blob/main/24dbd0bc48de0490557024cf7f92a736.gif" width="40" height="40" />
+- 📫 Contact me at:- **kakeri43@gmail.com**       
+</div>  <img src="https://github.com/devkakeri06/devkakeri06/blob/main/24dbd0bc48de0490557024cf7f92a736.gif" width="40" height="40" />
+
 
 # Skills
 
