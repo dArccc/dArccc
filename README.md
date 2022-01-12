@@ -15,7 +15,7 @@ I'm a Electronics and Communication Engineering student from Pune University. I 
 
 
 
-<img align="right" src="https://github.com/devkakeri06/devkakeri06/blob/main/24dbd0bc48de0490557024cf7f92a736.gif" width="400" height="350" />
+<img align="right" src="https://github.com/devkakeri06/devkakeri06/blob/main/24dbd0bc48de0490557024cf7f92a736.gif" width="300" height="250" />
 <p align="left">
    - 🔭 I’m currently working on **developing new skills.**
 
