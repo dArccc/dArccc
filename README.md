@@ -13,6 +13,7 @@ I'm Devaansh, a Web Developer in MERN (MongoDB-Express.js-React-Node.js) Stack, 
 
 I'm a Electronics and Communication Engineering student from Pune University. I like to learn about how things work and try out new tools and technologies. I love to share time with developer communities and events.
 
+
 - 🔭 I’m currently working on **developing new skills.**
 
 - 🌱 I’m currently learning **Competitive Programming and Machine Learning**
@@ -96,6 +97,6 @@ I'm a Electronics and Communication Engineering student from Pune University. I 
 
 ![Devaansh's github stats](https://github-readme-stats.vercel.app/api?username=devkakeri06&show_icons=true&theme=tokyonight)
 
-![Devaansh's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=devkakeri06&theme=tokyonight) |
+![Devaansh's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=devkakeri06&theme=tokyonight) 
 
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devkakeri06&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=devkakeri06&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devkakeri06&theme=tokyonight)  ![Github Stars](https://github-readme-stats.vercel.app/api?username=devkakeri06&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) 
