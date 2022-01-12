@@ -30,7 +30,7 @@ I'm a Electronics and Communication Engineering student from Pune University. I 
      
       
 
-<img align="right" src="https://github.com/devkakeri06/devkakeri06/blob/main/24dbd0bc48de0490557024cf7f92a736.gif" width="100" height="100" /></th>
+<img align="right" src="https://github.com/devkakeri06/devkakeri06/blob/main/24dbd0bc48de0490557024cf7f92a736.gif" width="700" height="600" />
   
 
       
