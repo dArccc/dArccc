@@ -9,7 +9,7 @@
 
 Hi folks :wave:
 
-I'm Devaansh, a Web Developer in MERN Stack, and a Machine Learning enthusiast. I like to solve problems on Leetcode, CodeChef and Hackerrank. I also want to try out my hands on Open Source in near future.
+I'm Devaansh, a Web Developer in MERN Stack, and a Machine Learning enthusiast. I like to solve problems on Leetcode, CodeChef and Hackerrank. I also want to try out my hands on Open Source and maybe DevOps.
 
 I'm pursuing my graduation in engineering focused on Electronics and Telecommunication from Pune University. I like to learn about how things work and try out new tools and technologies. I love to participate in events and interact with people in developer communities on reddit, discord and dev.to.
 
