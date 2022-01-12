@@ -49,9 +49,9 @@ I'm a Electronics and Communication Engineering student from Pune University. I 
 
 [<img alt="resume link" src="https://img.shields.io/badge/CodeChef-devv_06-blue" />](https://leetcode.com/devkakeri06/f.com/users/devv_06)
 
-[<img alt="email" src="https://img.shields.io/badge/CodeForces-devkakeri06.com-orange" />](https://codeforces.com/profile/devkakeri06)
+[<img alt="email" src="https://img.shields.io/badge/CodeForces-devkakeri06-orange" />](https://codeforces.com/profile/devkakeri06)
 
-[<img alt="email" src="https://img.shields.io/badge/HackerRank-devaansh6.com-blueviolet" />](https://www.hackerrank.com/devaansh6)
+[<img alt="email" src="https://img.shields.io/badge/HackerRank-devaansh6-blueviolet" />](https://www.hackerrank.com/devaansh6)
 
 # Socials:-
 
