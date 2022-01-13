@@ -30,7 +30,7 @@ I'm pursuing my graduation in engineering focused on Electronics and Telecommuni
 
    - 📫 Contact me at:- **kakeri43@gmail.com**
    
-   - ⚽ Hobbies:- Anime, Metal Music, Fitness, Sketching, Black Coffee <3.
+   - ⚽ Hobbies:- Anime, Metal Music, Fitness, Black Coffee <3.
 
 </p>
      
