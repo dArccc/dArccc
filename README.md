@@ -108,3 +108,7 @@ I'm pursuing my graduation in engineering focused on Electronics and Telecommuni
 ![Devaansh's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=devkakeri06&theme=tokyonight) 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devkakeri06&theme=tokyonight)  ![Github Stars](https://github-readme-stats.vercel.app/api?username=devkakeri06&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) 
+
+<!-- Markdown -->
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
