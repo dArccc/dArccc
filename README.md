@@ -62,7 +62,7 @@ I'm pursuing my graduation in engineering focused on Electronics and Telecommuni
 
 [<img alt="email" src="https://img.shields.io/badge/Linkedin-Connect with me!-informational" />](https://www.linkedin.com/in/devkakeri06/)
 
-[<img alt="email" src="https://img.shields.io/badge/Twitter-deader than my dreams-9cf" />](https://twitter.com/devkakeri06)
+[<img alt="email" src="https://img.shields.io/badge/Twitter-dead-9cf" />](https://twitter.com/devkakeri06)
 
 [<img alt="email" src="https://img.shields.io/badge/Dev.to-devkakeri06-yellow" />](https://dev.to/devkakeri06)
 
