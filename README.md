@@ -50,7 +50,7 @@ I'm pursuing my graduation in engineering focused on Electronics and Telecommuni
 
 [<img alt="portfolio link" src="https://img.shields.io/badge/LeetCode-devkakeri06-red" />](https://leetcode.com/devkakeri06/)
 
-[<img alt="resume link" src="https://img.shields.io/badge/CodeChef-devv_06-blue" />](https://leetcode.com/devkakeri06/f.com/users/devv_06)
+[<img alt="resume link" src="https://img.shields.io/badge/CodeChef-devv_06-blue" />](https://www.codechef.com/users/devv_06)
 
 [<img alt="email" src="https://img.shields.io/badge/CodeForces-devkakeri06-orange" />](https://codeforces.com/profile/devkakeri06)
 
