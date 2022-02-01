@@ -56,15 +56,15 @@ I'm pursuing my graduation in engineering focused on Electronics and Communicati
 
 # Socials:-
 
-[<img alt="email" src="https://img.shields.io/badge/Instagram-i dont post lol-ff69b4" />](https://www.instagram.com/devkakeri06/)
+[<img alt="email" src="https://img.shields.io/badge/Instagram-o_o-ff69b4" />](https://www.instagram.com/devkakeri06/)
 
 [<img alt="email" src="https://img.shields.io/badge/Linkedin-Connect with me!-informational" />](https://www.linkedin.com/in/devkakeri06/)
 
-[<img alt="email" src="https://img.shields.io/badge/Twitter-dead-9cf" />](https://twitter.com/devkakeri06)
+[<img alt="email" src="https://img.shields.io/badge/Twitter-ಠ_ಠ-9cf" />](https://twitter.com/devkakeri06)
 
 [<img alt="email" src="https://img.shields.io/badge/Dev.to-devkakeri06-yellow" />](https://dev.to/devkakeri06)
 
-[<img alt="email" src="https://img.shields.io/badge/Discord-dxvv.exe%230740-blueviolet" />]()
+[<img alt="email" src="https://img.shields.io/badge/Discord-BaKa%230740-blueviolet" />]()
 
 [<img alt="email" src="https://img.shields.io/badge/Email%20me-kakeri43@gmail.com-red" />](mailto:kakeri43@gmail.me)
 
