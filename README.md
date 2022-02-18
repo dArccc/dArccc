@@ -64,7 +64,7 @@ I'm pursuing my graduation in engineering focused on Electronics and Communicati
 
 [<img alt="email" src="https://img.shields.io/badge/Dev.to-devkakeri06-yellow" />](https://dev.to/devkakeri06)
 
-[<img alt="email" src="https://img.shields.io/badge/Discord-BaKa%230740-blueviolet" />]()
+[<img alt="email" src="https://img.shields.io/badge/Discord-brownie%236339-blueviolet" />]()
 
 [<img alt="email" src="https://img.shields.io/badge/Email%20me-kakeri43@gmail.com-red" />](mailto:kakeri43@gmail.me)
 
