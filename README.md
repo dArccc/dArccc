@@ -9,11 +9,7 @@
 
 Hi folks :wave:
 
-I'm Devaansh, a Web Developer in MERN Stack, and a ML/DS enthusiast. I like to solve problems on Leetcode and CodeChef. I also want to try out my hands on Open Source and maybe DevOps.
-
-I'm pursuing my graduation in engineering focused on Electronics and Communication from Pune University. I like to learn about how things work and try out new tools and technologies. I love to participate in events and interact with people in developer communities on Reddit and Discord.
-
-
+I'm </Dev>, a Web Developer in MERN Stack, and a ML/DS enthusiast. I like to solve problems on Leetcode and CodeChef. Interested in Open Source and DevOps.
 
 <img align="right" src="https://github.com/devkakeri06/devkakeri06/blob/main/24dbd0bc48de0490557024cf7f92a736.gif" width="300" height="250" />
 <p align="left">
@@ -36,7 +32,7 @@ I'm pursuing my graduation in engineering focused on Electronics and Communicati
 
 ## Programming Languages:
 
-<img src="https://img.shields.io/badge/C-lightgrey" alt="C" /> <img src="https://img.shields.io/badge/C++-ff69b4" alt="C++" /> <img src="https://img.shields.io/badge/Java-important" alt="Java" /> <img src="https://img.shields.io/badge/Python 3-informational" alt="Python 3" /> <img src="https://img.shields.io/badge/JavaScript (ES6)-brightgreen" alt="JavaScript (ES6)" />
+<img src="https://img.shields.io/badge/C-lightgrey" alt="C" /> <img src="https://img.shields.io/badge/C++-ff69b4" alt="C++" /> <img src="https://img.shields.io/badge/Java-important" alt="Java" /> <img src="https://img.shields.io/badge/Python 3-informational" alt="Python 3" /> <img src="https://img.shields.io/badge/JavaScript (ES6)-brightgreen" alt="JavaScript (ES6)" /><img src="https://img.shields.io/badge/MATLAB-lightgrey" alt="MATLAB" />
 
 ## Tools and Technologies:
 
@@ -56,11 +52,11 @@ I'm pursuing my graduation in engineering focused on Electronics and Communicati
 
 # Socials:-
 
-[<img alt="email" src="https://img.shields.io/badge/Instagram-crinj-ff69b4" />](https://www.instagram.com/dev.k68/)
+[<img alt="email" src="https://img.shields.io/badge/Instagram-ff69b4" />](https://www.instagram.com/dev.k68/)
 
 [<img alt="email" src="https://img.shields.io/badge/Linkedin-Connect with me!-informational" />](https://www.linkedin.com/in/devkakeri06/)
 
-[<img alt="email" src="https://img.shields.io/badge/Twitter-crinj-9cf" />](https://twitter.com/devkakeri06)
+[<img alt="email" src="https://img.shields.io/badge/Twitter-9cf" />](https://twitter.com/devkakeri06)
 
 [<img alt="email" src="https://img.shields.io/badge/Dev.to-devkakeri06-yellow" />](https://dev.to/devkakeri06)
 
