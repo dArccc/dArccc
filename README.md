@@ -1,9 +1,6 @@
-<h1 align="center">Hi 👋, I'm Devaansh!</h1>
-<h2 align="center">A passionate Developer from Mumbai, India.</h2>
+<h1 align="center">Hi 👋, I'm Dev and I am a Dev!</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devkakeri06&label=Profile%20views&color=0e75b6&style=flat" alt="devkakeri06" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devkakeri06" alt="devkakeri06" /></a> </p>
 
 # About Me
 
@@ -96,6 +93,8 @@ I'm &#60;&#47;Dev&#62;, a Web Developer in MERN Stack, and a ML/DS enthusiast. I
 </div>
 
 # Github Stats:-
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devkakeri06" alt="devkakeri06" /></a> </p>
 
 ![Devaansh's github stats](https://github-readme-stats.vercel.app/api?username=devkakeri06&show_icons=true&theme=tokyonight)
 
