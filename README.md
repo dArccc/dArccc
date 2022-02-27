@@ -9,7 +9,7 @@
 
 Hi folks :wave:
 
-I'm </Dev>, a Web Developer in MERN Stack, and a ML/DS enthusiast. I like to solve problems on Leetcode and CodeChef. Interested in Open Source and DevOps.
+I'm &#60;&#47;Dev&#62;, a Web Developer in MERN Stack, and a ML/DS enthusiast. I like to solve problems on Leetcode and CodeChef. Interested in Open Source and DevOps.
 
 <img align="right" src="https://github.com/devkakeri06/devkakeri06/blob/main/24dbd0bc48de0490557024cf7f92a736.gif" width="300" height="250" />
 <p align="left">
