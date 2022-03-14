@@ -6,7 +6,7 @@
 
 Hi folks :wave:
 
-I'm Dev, a Web Developer in MERN Stack, and a ML/DS enthusiast. I like to solve problems on Leetcode and CodeChef. Interested in Open Source and IoT.
+I'm Dev, a MERN Stack Dev, and a ML/DS enthusiast. I like to solve problems on Leetcode and CodeChef. Interested in Open Source and IoT.
 
 <img align="right" src="https://github.com/devkakeri06/devkakeri06/blob/main/24dbd0bc48de0490557024cf7f92a736.gif" width="300" height="250" />
 <p align="left">
