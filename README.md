@@ -49,19 +49,16 @@ I'm Dev, a Web Developer in MERN Stack, and a ML/DS enthusiast. I like to solve 
 
 # Socials:-
 
-[<img alt="email" src="https://img.shields.io/badge/Instagram-ff69b4" />](https://www.instagram.com/dev.k68/)
-
-[<img alt="email" src="https://img.shields.io/badge/Linkedin-Connect with me!-informational" />](https://www.linkedin.com/in/devkakeri06/)
-
-[<img alt="email" src="https://img.shields.io/badge/Twitter-9cf" />](https://twitter.com/devkakeri06)
-
-[<img alt="email" src="https://img.shields.io/badge/Dev.to-devkakeri06-yellow" />](https://dev.to/devkakeri06)
-
-[<img alt="email" src="https://img.shields.io/badge/Discord-brownie%236339-blueviolet" />]()
-
-[<img alt="email" src="https://img.shields.io/badge/Email%20me-kakeri43@gmail.com-red" />](mailto:kakeri43@gmail.me)
-
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/devkakeri06?label=Follow%20Me&style=social" />
+<p align="left">
+<a href="https://dev.to/devkakeri06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="devkakeri06" height="30" width="40" /></a>
+<a href="https://twitter.com/devkakeri06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devkakeri06" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/devkakeri06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devkakeri06" height="30" width="40" /></a>
+<a href="https://kaggle.com/devkakeri06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="devkakeri06" height="30" width="40" /></a>
+<a href="https://instagram.com/devkakeri06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="devkakeri06" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/devv_06" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="devv_06" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/devkakeri06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="devkakeri06" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/devkakeri06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="devkakeri06" height="30" width="40" /></a>
+</p>
 
 ## Here are some [🦜 parrots](https://cultofthepartyparrot.com):
 
