@@ -11,7 +11,7 @@ I'm Dev, a MERN Stack Dev, and a ML/DS enthusiast. I like to solve problems on L
 <img align="right" src="https://github.com/devkakeri06/devkakeri06/blob/main/24dbd0bc48de0490557024cf7f92a736.gif" width="300" height="250" />
 <p align="left">
    
-   - 🔭 I’m currently working on **Web Development and DSA.**
+   - 🔭 I’m currently working on **Machine Learning and DSA.**
 
    - 👯 I’m looking to collaborate on **projects.**
 
