@@ -23,6 +23,8 @@ I'm Dev, a MERN Stack Dev, and a ML/DS enthusiast. I like to solve problems on L
    
    - ⚽ Hobbies:- Anime, Metal Music, Fitness, Black Coffee <3.
 
+   - 🤡 Add me on discord:- kamii#6339
+
 </p>
      
 # Skills
