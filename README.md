@@ -4,24 +4,15 @@
 
 # About Me
 
-Hi folks :wave:
+I'm a MERN Stack Dev, and a ML/DS enthusiast. I like to solve problems on Leetcode and CodeChef. Interested in Open Source and IoT.
 
-I'm Dev, a MERN Stack Dev, and a ML/DS enthusiast. I like to solve problems on Leetcode and CodeChef. Interested in Open Source and IoT.
-
-<img align="right" src="https://github.com/devkakeri06/devkakeri06/blob/main/24dbd0bc48de0490557024cf7f92a736.gif" width="300" height="250" />
-<p align="left">
-   
    - 🔭 I’m currently working on **Machine Learning and DSA.**
-
-   - 👯 I’m looking to collaborate on **projects.**
-
-   - 👨‍💻 Follow my work on [https://github.com/devkakeri06](https://github.com/devkakeri06).     
 
    - 💬 Ask me about **C/C++, DSA, React, Backend.**
 
    - 📫 Contact me at:- **kakeri43@gmail.com**
    
-   - ⚽ Hobbies:- Anime, Metal Music, Fitness, Black Coffee <3.
+   - ⚽ Hobbies:- Anime, Metal Music, Fitness, Programming.
 
    - 🤡 Add me on discord:- kamii#6339
 
@@ -55,6 +46,8 @@ I'm Dev, a MERN Stack Dev, and a ML/DS enthusiast. I like to solve problems on L
 ![Devaansh's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=devkakeri06&theme=tokyonight) 
 
 ![Github Stars](https://github-readme-stats.vercel.app/api?username=devkakeri06&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) 
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devkakeri06&show_icons=true&locale=en&layout=compact" alt="devkakeri06" /></p>
 
 <!-- Markdown -->
 
