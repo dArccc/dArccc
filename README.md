@@ -12,7 +12,7 @@ I'm a MERN Stack Dev, and a ML/DS enthusiast. I like to solve problems on Leetco
 
    - 📫 Contact me at:- **kakeri43@gmail.com**
    
-   - ⚽ Hobbies:- Anime, Metal Music, Fitness, Programming.
+   - ⚽ Hobbies:- Anime, Heavy Metal, Reading, Programming.
 
    - 🤡 Add me on discord:- kamii#6339
 
