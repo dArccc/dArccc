@@ -14,7 +14,7 @@ I'm a MERN Stack Dev, and a ML/DS enthusiast. I like to solve problems on Leetco
    
    - ⚽ Hobbies:- Anime, Heavy Metal, Reading, Programming.
 
-   - 🤡 Add me on discord:- pein#6339
+   - 🤡 Add me on discord:- kaguya#6339
 
 </p>
      
