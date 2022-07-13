@@ -51,4 +51,4 @@ I'm a MERN Stack Dev, and a ML/DS enthusiast. I like to solve problems on Leetco
 
 <!-- Markdown -->
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
+![Jokes Card](https://readme-jokes.vercel.app/api) 
