@@ -6,7 +6,7 @@
 
 I'm a MERN Stack Dev, and a ML/DS enthusiast. I like to solve problems on Leetcode and CodeChef. Interested in Open Source and IoT.
 
-   - 🔭 I’m currently working on **Machine Learning and DSA.**
+   - 🔭 I’m currently learning **Data Science and DSA.**
 
    - 💬 Ask me about **C/C++, DSA, React, Backend.**
 
