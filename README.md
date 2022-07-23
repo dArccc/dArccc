@@ -8,8 +8,6 @@ I'm a MERN Stack Dev, and a ML/DS enthusiast. I like to solve problems on Leetco
 
    - 🔭 I’m currently learning **Data Science and DSA.**
 
-   - 💬 Ask me about **C/C++, DSA, React, Backend.**
-
    - 📫 Contact me at:- **devaansh6303@gmail.com**
    
    - ⚽ Hobbies:- Anime, Heavy Metal, Reading, Programming.
