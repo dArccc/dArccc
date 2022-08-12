@@ -12,7 +12,7 @@ I'm a MERN Stack Dev, and a ML/DS enthusiast. I like to solve problems on Leetco
    
    - ⚽ Hobbies:- Anime, Heavy Metal, Reading, Programming.
 
-   - 🤡 Add me on discord:- devtoo#0001
+   - 🤡 Add me on discord:- dArc#1503
 
 </p>
      
