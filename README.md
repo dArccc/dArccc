@@ -45,7 +45,7 @@ I'm a MERN Stack Dev, and a ML/DS enthusiast. I like to solve problems on Leetco
 
 ![Github Stars](https://github-readme-stats.vercel.app/api?username=devkakeri06&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) 
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devkakeri06&layout=compact&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devkakeri06&layout=compact&theme=tokyonight&show_icons=true&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) 
 
 <!-- Markdown -->
 
