@@ -10,7 +10,7 @@ I'm a MERN Stack Dev, and a ML/DS enthusiast. I like to solve problems on Leetco
 
    - 📫 Contact me at:- **devaansh6303@gmail.com**
    
-   - ⚽ Hobbies:- Anime, Heavy Metal, Reading, Programming.
+   - ⚽ Hobbies:- Anime, Heavy Metal, Reading, Programming and Chess.
 
    - 🤡 Add me on discord:- dArc#1503
 
