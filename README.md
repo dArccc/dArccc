@@ -6,11 +6,11 @@
 
 # About Me
 
-I'm a MERN Stack Dev, and a ML/DS enthusiast. I like to solve problems on Leetcode and CodeChef. Interested in Open Source and IoT.
+I'm a MERN Stack Dev, and a ML/DS enthusiast. I like to solve problems on Leetcode and CodeChef. Interested in Open Source and Cloud Computing.
 
-   - 🔭 I’m currently learning **Data Science and DSA.**
+   - 🔭 I’m currently working on projects related to **MERN Stack**
 
-   - 📫 Contact me at:- **devaansh6303@gmail.com**
+   - 📫 Contact me at:- **devkakeri06@gmail.com**
    
    - ⚽ Hobbies:- Anime, Heavy Metal, Reading, Programming and Chess.
 
