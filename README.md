@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0CC3F7&background=B1FFBA00&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I+am+Dev+and+I+am+a+Dev!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=23&pause=1000&color=0CC3F7&background=B1FFBA00&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I+am+Dev+and+I+am+a+Dev!)](https://git.io/typing-svg)
 
 <!-- <h1 align="center">Hi 👋, I'm Dev and I am a Dev!</h1> -->
 
