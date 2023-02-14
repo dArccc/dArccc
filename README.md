@@ -1,3 +1,6 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F79111&background=B1FFBA00&vCenter=true&width=435&lines=Hi%2C+I+am+Dev+and+I+am+a+Dev!)](https://git.io/typing-svg)
+
+
 <h1 align="center">Hi 👋, I'm Dev and I am a Dev!</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devkakeri06&label=Profile%20views&color=0e75b6&style=flat" alt="devkakeri06" /> </p>
