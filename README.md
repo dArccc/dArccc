@@ -8,7 +8,7 @@
 
 I'm a MERN Stack Dev, and a ML/DS enthusiast. I like to solve problems on Leetcode and CodeChef. Interested in Open Source and Cloud Computing.
 
-   - 🔭 I’m currently working on projects related to **MERN Stack**.
+   - 🔭 I’m currently working on projects related to **Full Stack**.
 
    - 📫 Contact me at:- **devkakeri06@gmail.com**
    
