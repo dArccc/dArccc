@@ -6,7 +6,7 @@
 
 # About Me
 
-I'm a MERN Stack Dev, and a ML/DS enthusiast. I like to solve problems on Leetcode and CodeChef. Interested in Cloud Computing and IoT.
+I'm a MERN Stack Dev, and a ML/DS enthusiast. I like to solve problems on Leetcode and CodeChef. Interested in Open Source, IoT and Cloud Providers.
 
    - 🔭 I’m currently working on projects related to **Full Stack**.
 
